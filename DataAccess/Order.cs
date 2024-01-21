@@ -1,4 +1,4 @@
-class Order {
+public class Order {
     public int Id { get; set; }
     public int CustomerId { get; set; }
     public string CustomerName { get; set; }
@@ -6,7 +6,7 @@ class Order {
     public int Amount { get; set; }
     public DateTime Date { get; set; }
 
-    public List<Product> Products { get; set; }
+    public List<Product> products { get; set; }
 
 
   

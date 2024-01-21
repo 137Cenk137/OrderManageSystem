@@ -1,5 +1,10 @@
-class Customer 
+public class Customer 
 {
+
+    public Customer()
+    {
+        orders = new List<Order>();
+    }
     public string Name { get; set; }
     public int Id { get; set; }
 
