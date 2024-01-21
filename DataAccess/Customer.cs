@@ -7,13 +7,16 @@ class Customer
     public string Address { get; set; }
     public List<Order> orders{ get; set; }
 
-    public void Add(){
-        
+    public void Add(Order order){
+        orders.Add(order);
     }
     public void Edit(){
 
     }
     public void Remove(){
+        
+
+
 
     }
 }

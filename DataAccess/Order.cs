@@ -6,9 +6,10 @@ class Order {
     public int Amount { get; set; }
     public DateTime Date { get; set; }
 
+    public List<Product> Products { get; set; }
 
-    public void NewOrder(){}
-    public void Edit(int Id){}
-    
+
+  
+
 
 }

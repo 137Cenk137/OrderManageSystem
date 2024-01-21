@@ -5,7 +5,5 @@ class Product
     public string Type { get; set; }
 
 
-    public void Add(){}
-    public void Modify(int Id){}
-    public void Select(int Id){}
+ 
 }
