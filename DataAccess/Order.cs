@@ -6,7 +6,7 @@ public class Order {
     public int Amount { get; set; }
     public DateTime Date { get; set; }
 
-    public List<Product> products { get; set; }
+    public List<Product> Products { get; set; }
 
 
   

@@ -15,13 +15,18 @@ public class Customer
     public void Add(Order order){
         orders.Add(order);
     }
-    public void Edit(){
-
+    public void Edit(Order order,int Id)
+    {
+        int index = orders.IndexOf(order);
+        if (orders[index].Id== Id )
+        {
+            Console.WriteLine("dfg");
+        }
     }
-    public void Remove(){
         
-
-
-
+    
+    public void Remove()
+    {
+        orders.Clear();
     }
 }
