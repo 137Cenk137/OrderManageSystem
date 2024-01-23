@@ -15,12 +15,15 @@ public class Customer
     public void Add(Order order){
         orders.Add(order);
     }
-    public void Edit(Order order,int Id)
+    public void Edit(Order order,int Id,int newId ,int newAmount,DateTime newDate)
     {
         int index = orders.IndexOf(order);
-        if (orders[index].Id== Id )
+        if (orders[index].Id == Id )
         {
-            Console.WriteLine("dfg");
+            orders[index].Id = newId;
+            orders[index].Amount = newAmount;
+            orders[index].Date = newDate;
+            
         }
     }
         
