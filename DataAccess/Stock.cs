@@ -9,8 +9,24 @@ class Stock
     public void Add(int id, float price, string type){
         Products.Add(new Product{Id = id, Price = price, Type=type});
     }
-    public void Modify(int ProductIdId){
-        
+    public void Modify(int productIdId,Product product,int newId,float price)
+    {
+        int index = Products.IndexOf(product);
+        if(Products[index].Id == productIdId)
+        {
+            Products[index].Id = newId;
+            Products[index].Price = price;
+        }
     }
-    public void Select(int ProductIdId){}
+    public Product Select(int ProductIdId){
+        for (int i = 0; i < Products.Count; i++)
+        {
+            if (Products[i].Id == ProductId)
+            {
+                return Products[i];
+            }
+        
+        }
+        return null;
+    }
 }
