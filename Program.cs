@@ -33,8 +33,13 @@ public class Program
             if(b == 1){
                 Console.WriteLine("Which field would you like to change ? \n 1: added product \n 2: Modify stock \n 3: select product");
                 int c = Convert.ToInt32(Console.ReadLine());
-                if (c == 1){
-                    Console.Write("product id enter :");
+                
+                switch (c)
+                {
+                    
+                    case 1:
+                    {
+                     Console.Write("product id enter :");
                     int d = Convert.ToInt32(Console.ReadLine());
                     Console.Write("product price enter :");
                     float e = float.Parse(Console.ReadLine());
@@ -45,6 +50,35 @@ public class Program
                     {
                         Console.WriteLine($"id : {item.Id} , price: {item.Price}, type: {item.Type}");
                     }
+                    break;
+                    }
+                    case 2:{
+                        Console.Write(" product id enter that you want change it :");
+                        int d = Convert.ToInt32(Console.ReadLine());
+                        Console.Write("product new ID enter :");
+                        int e = int.Parse(Console.ReadLine());
+                        Console.Write("product price  enter :");
+                        float f = float.Parse(Console.ReadLine());
+
+                        stock.Modify(d,e,f);
+                        break;
+
+                    }
+                    case 3:{
+                        Console.Write("Enter the ID of the product you want to select : ");
+                        int d = Convert.ToInt32(Console.ReadLine());
+                        if (stock.Select(d) == null){
+                           Console.WriteLine("there is no prouduct id");
+                        }
+                        else{
+                            var item = stock.Select(d);
+                            Console.WriteLine($"id : {item.Id} , price: {item.Price}, type: {item.Type}");
+                        }
+                        break;
+                    }
+
+                }
+                
                     
                 }
                
@@ -60,4 +94,4 @@ public class Program
 
 
     }
-}
+
