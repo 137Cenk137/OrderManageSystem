@@ -1,0 +1,12 @@
+/Users/cenkkiran/Desktop/C#/AlgoritmaExamples/OrderManageSystem/Entities/bin/Debug/net8.0/Entities.deps.json
+/Users/cenkkiran/Desktop/C#/AlgoritmaExamples/OrderManageSystem/Entities/bin/Debug/net8.0/Entities.dll
+/Users/cenkkiran/Desktop/C#/AlgoritmaExamples/OrderManageSystem/Entities/bin/Debug/net8.0/Entities.pdb
+/Users/cenkkiran/Desktop/C#/AlgoritmaExamples/OrderManageSystem/Entities/obj/Debug/net8.0/Entities.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cenkkiran/Desktop/C#/AlgoritmaExamples/OrderManageSystem/Entities/obj/Debug/net8.0/Entities.AssemblyInfoInputs.cache
+/Users/cenkkiran/Desktop/C#/AlgoritmaExamples/OrderManageSystem/Entities/obj/Debug/net8.0/Entities.AssemblyInfo.cs
+/Users/cenkkiran/Desktop/C#/AlgoritmaExamples/OrderManageSystem/Entities/obj/Debug/net8.0/Entities.csproj.CoreCompileInputs.cache
+/Users/cenkkiran/Desktop/C#/AlgoritmaExamples/OrderManageSystem/Entities/obj/Debug/net8.0/Entities.sourcelink.json
+/Users/cenkkiran/Desktop/C#/AlgoritmaExamples/OrderManageSystem/Entities/obj/Debug/net8.0/Entities.dll
+/Users/cenkkiran/Desktop/C#/AlgoritmaExamples/OrderManageSystem/Entities/obj/Debug/net8.0/refint/Entities.dll
+/Users/cenkkiran/Desktop/C#/AlgoritmaExamples/OrderManageSystem/Entities/obj/Debug/net8.0/Entities.pdb
+/Users/cenkkiran/Desktop/C#/AlgoritmaExamples/OrderManageSystem/Entities/obj/Debug/net8.0/ref/Entities.dll

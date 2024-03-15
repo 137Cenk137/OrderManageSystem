@@ -1,0 +1,12 @@
+/Users/cenkkiran/Desktop/C#/AlgoritmaExamples/OrderManageSystem/DataAccess/bin/Debug/net8.0/DataAccess.deps.json
+/Users/cenkkiran/Desktop/C#/AlgoritmaExamples/OrderManageSystem/DataAccess/bin/Debug/net8.0/DataAccess.dll
+/Users/cenkkiran/Desktop/C#/AlgoritmaExamples/OrderManageSystem/DataAccess/bin/Debug/net8.0/DataAccess.pdb
+/Users/cenkkiran/Desktop/C#/AlgoritmaExamples/OrderManageSystem/DataAccess/obj/Debug/net8.0/DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cenkkiran/Desktop/C#/AlgoritmaExamples/OrderManageSystem/DataAccess/obj/Debug/net8.0/DataAccess.AssemblyInfoInputs.cache
+/Users/cenkkiran/Desktop/C#/AlgoritmaExamples/OrderManageSystem/DataAccess/obj/Debug/net8.0/DataAccess.AssemblyInfo.cs
+/Users/cenkkiran/Desktop/C#/AlgoritmaExamples/OrderManageSystem/DataAccess/obj/Debug/net8.0/DataAccess.csproj.CoreCompileInputs.cache
+/Users/cenkkiran/Desktop/C#/AlgoritmaExamples/OrderManageSystem/DataAccess/obj/Debug/net8.0/DataAccess.sourcelink.json
+/Users/cenkkiran/Desktop/C#/AlgoritmaExamples/OrderManageSystem/DataAccess/obj/Debug/net8.0/DataAccess.dll
+/Users/cenkkiran/Desktop/C#/AlgoritmaExamples/OrderManageSystem/DataAccess/obj/Debug/net8.0/refint/DataAccess.dll
+/Users/cenkkiran/Desktop/C#/AlgoritmaExamples/OrderManageSystem/DataAccess/obj/Debug/net8.0/DataAccess.pdb
+/Users/cenkkiran/Desktop/C#/AlgoritmaExamples/OrderManageSystem/DataAccess/obj/Debug/net8.0/ref/DataAccess.dll

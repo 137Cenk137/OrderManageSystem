@@ -1,0 +1,12 @@
+/Users/cenkkiran/Desktop/C#/AlgoritmaExamples/OrderManageSystem/Business/bin/Debug/net8.0/Business.deps.json
+/Users/cenkkiran/Desktop/C#/AlgoritmaExamples/OrderManageSystem/Business/bin/Debug/net8.0/Business.dll
+/Users/cenkkiran/Desktop/C#/AlgoritmaExamples/OrderManageSystem/Business/bin/Debug/net8.0/Business.pdb
+/Users/cenkkiran/Desktop/C#/AlgoritmaExamples/OrderManageSystem/Business/obj/Debug/net8.0/Business.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cenkkiran/Desktop/C#/AlgoritmaExamples/OrderManageSystem/Business/obj/Debug/net8.0/Business.AssemblyInfoInputs.cache
+/Users/cenkkiran/Desktop/C#/AlgoritmaExamples/OrderManageSystem/Business/obj/Debug/net8.0/Business.AssemblyInfo.cs
+/Users/cenkkiran/Desktop/C#/AlgoritmaExamples/OrderManageSystem/Business/obj/Debug/net8.0/Business.csproj.CoreCompileInputs.cache
+/Users/cenkkiran/Desktop/C#/AlgoritmaExamples/OrderManageSystem/Business/obj/Debug/net8.0/Business.sourcelink.json
+/Users/cenkkiran/Desktop/C#/AlgoritmaExamples/OrderManageSystem/Business/obj/Debug/net8.0/Business.dll
+/Users/cenkkiran/Desktop/C#/AlgoritmaExamples/OrderManageSystem/Business/obj/Debug/net8.0/refint/Business.dll
+/Users/cenkkiran/Desktop/C#/AlgoritmaExamples/OrderManageSystem/Business/obj/Debug/net8.0/Business.pdb
+/Users/cenkkiran/Desktop/C#/AlgoritmaExamples/OrderManageSystem/Business/obj/Debug/net8.0/ref/Business.dll
