@@ -1,4 +1,6 @@
 
+using OrderManageSystem.Core.Entities;
+
 namespace OrderManageSystem.Entities.Concretes;
 
 
