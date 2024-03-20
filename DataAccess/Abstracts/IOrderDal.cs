@@ -10,5 +10,5 @@ public interface IOrderDal
      void NewOrder(Order entity);
      void OrderCompleted(int id);
 
-     void Edit();
+     void Edit(int id , Order order);
 }

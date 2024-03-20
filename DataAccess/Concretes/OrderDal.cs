@@ -14,7 +14,6 @@ public class OrderDAl : IOrderDal
         var order1 = _orders.SingleOrDefault(x => x.Id == id);
         order1.Amount = order.Amount;
        
-       
     }
 
     public void NewOrder(Order entity)
