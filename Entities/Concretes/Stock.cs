@@ -10,6 +10,6 @@ public class Stock : BaseEntity<int>
    public int Quantity { get; set; }
 
    [ForeignKey("Id")]//ProcuctId
-   public Product product { get; set; }
+   public Product Product { get; set; }
 
 }

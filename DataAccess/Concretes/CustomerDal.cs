@@ -22,7 +22,7 @@ public class CustomerDal : ICustomerDal
 
     public void Edit()
     {
-        throw new NotImplementedException();
+        
     }
 
     public List<Customer> GetAll()
